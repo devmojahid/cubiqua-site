@@ -1,3 +1,5 @@
+/* Fredoka is served from this site (SIL OFL 1.1, see Fredoka-OFL.txt): no third-party font requests. */
+@font-face { font-family: "Fredoka"; src: url("Fredoka.ttf") format("truetype"); font-weight: 300 700; font-display: swap; }
 :root {
   --sky: #bfe6f5; --cream: #fff1e0; --ink: #2b2340; --soft: #6f6884;
   --card: #ffffff; --orange: #ff7a45; --lip: #d9572a; --teal: #22c3a6;
